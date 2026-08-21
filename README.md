@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Praveen Prajapati</h1>
+Hi 👋, I'm Praveen Prajapati</h1>
 <h3 align="center">from nagaur rajasthan and b.tech cse ai student at coding gita</h3>
 
 - 🌱 I’m currently learning **github**
