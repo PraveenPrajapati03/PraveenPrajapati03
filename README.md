@@ -1,6 +1,8 @@
 Hi 👋, I'm Praveen Prajapati</h1>
 <h3 align="center">from nagaur rajasthan and b.tech cse ai student at coding gita</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PraveenPrajapati03&label=Profile%20views&color=0e75b6&style=flat" alt="PraveenPrajapati03" /> </p>
+
 - 🌱 I’m currently learning **github**
 
 - 💬 Ask me about **strong interest in computer science,and learn about computer**
